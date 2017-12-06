@@ -5,3 +5,4 @@ Git is free software.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 this time is modified by vim editor
+Git tracks changes.

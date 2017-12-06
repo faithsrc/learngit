@@ -1,0 +1,2 @@
+
+test vim this is the first vim text

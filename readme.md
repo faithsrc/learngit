@@ -7,7 +7,7 @@ Servlet, JavaServer Pages, Java Expression Language and Java WebSocket
 technologies. The Java Servlet, JavaServer Pages, Java Expression Language and
 Java WebSocket specifications are developed under the
 [Java Community Process](http://jcp.org/en/introduction/overview).
-
+[baidu](http://www.baidu.com)
 The Apache Tomcat software is developed in an open and participatory
 environment and released under the
 [Apache License version 2](http://www.apache.org/licenses/). The Apache Tomcat

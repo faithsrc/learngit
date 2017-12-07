@@ -8,5 +8,5 @@ this time is modified by vim editor
 Git tracks changes.
 Git tracks changes of files.
 add branch dev form learngit
-Creating a new branch is quick AND feature1.
+Creating a new branch is simple AND feature1.
 
